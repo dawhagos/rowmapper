@@ -3,6 +3,11 @@
 ## Steps:
 
 1. Update the hard-coded object name in main.py to the appropriate object name.
+
+```
+objectName = "nrSchedule"
+```
+
 2. Paste the list of the entity properties including their datatype into the _rowmap.txt_ text file as such:
 
 ```

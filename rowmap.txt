@@ -1,0 +1,4 @@
+Long itemId
+Long territoryId
+String isoCode
+Date lastUpdateDate

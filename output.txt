@@ -1,0 +1,4 @@
+testObj.setItemId(rs.getLong("ITEM_ID"));
+testObj.setTerritoryId(rs.getLong("TERRITORY_ID"));
+testObj.setIsoCode(Utils.trimStr(rs.getString("ISO_CODE")));
+testObj.setLastUpdateDate(rs.getDate("LAST_UPDATE_DATE"));
